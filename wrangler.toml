@@ -1,4 +1,4 @@
-name = "uglink-bdridge-synctv"
+name = "uglink-bridge-synctv"
 main = "dist/index.js"
 compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
