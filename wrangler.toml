@@ -4,8 +4,8 @@ compatibility_date = "2025-04-09"
 compatibility_flags = ["nodejs_compat"]
 [vars]
 BASE_URL = "https://soranas.cn31.ug.link"
-PORT = "28080"
-USERNAME = "dcliu"
+PORT = ""
+USERNAME = ""
 
 [[kv_namespaces]]
 binding = "UGLINK_CACHE"
